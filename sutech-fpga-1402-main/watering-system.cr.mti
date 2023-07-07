@@ -1,0 +1,38 @@
+{C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity watering_system_tb
+-- Compiling architecture TB_ARCHITECTURE of watering_system_tb
+-- Compiling configuration TESTBENCH_FOR_watering_system
+-- Loading entity watering_system_tb
+-- Loading architecture TB_ARCHITECTURE of watering_system_tb
+-- Loading entity watering_system
+
+} {} {}} {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ssd
+-- Compiling architecture ssd_behaviour of ssd
+
+} {} {}} {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity watering_system
+-- Compiling architecture watering_system_behaviour of watering_system
+
+} {} {}} {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package watering_system_package
+-- Compiling package body watering_system_package
+-- Loading package watering_system_package
+
+} {} {}}

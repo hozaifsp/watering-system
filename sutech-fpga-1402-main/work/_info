@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/sss/Downloads/Compressed/[SutechFPGA1402][400213015]/sutech-fpga-1402-main
+Essd
+Z0 w1688752738
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+Z3 dC:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main
+Z4 8C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd
+Z5 FC:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd
+l0
+L7 1
+VEL8`i@3XH?LZ`_F5N8VIj3
+!s100 j0Jm;XQDDg@fb3S:363UG0
+Z6 OL;C;2020.4;71
+32
+Z7 !s110 1688754486
+!i10b 1
+Z8 !s108 1688754486.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd|
+Z10 !s107 C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/ssd.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Assd_behaviour
+R1
+R2
+DEx4 work 3 ssd 0 22 EL8`i@3XH?LZ`_F5N8VIj3
+!i122 4
+l16
+L15 5
+V^;BdP<YU[_80ICcC7dbAh2
+!s100 QK1aL73`nmiXOCoDBn=DJ0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ctestbench_for_watering_system
+ewatering_system_tb
+aTB_ARCHITECTURE
+Z13 DEx4 work 15 watering_system 0 22 3oBD^Ab7^3=DTXcWGUOD60
+DAx4 work 18 watering_system_tb 15 tb_architecture 22 VG9fNF5SjZ?Db?I5GjEia1
+R1
+R2
+Z14 DEx4 work 18 watering_system_tb 0 22 V4F^I7]c7b3N?ViF[`?ln2
+!i122 7
+Z15 w1688752733
+R3
+Z16 8C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd
+Z17 FC:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd
+l0
+L253 1
+V1]gnb1_3ZELz8?24VH1SY2
+!s100 JK3CLheAR45]W[50^e<K=0
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd|
+!s107 C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd|
+!i113 0
+R11
+R12
+Ewatering_system
+Z19 w1688752735
+R1
+R2
+!i122 5
+R3
+Z20 8C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd
+Z21 FC:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd
+l0
+L7 1
+V3oBD^Ab7^3=DTXcWGUOD60
+!s100 3nla12iPXnzGNGzFZIhmX0
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd|
+Z23 !s107 C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system.vhd|
+!i113 0
+R11
+R12
+Awatering_system_behaviour
+R1
+R2
+R13
+!i122 5
+l33
+L19 66
+V4[7D3cMecOheITd30I4S41
+!s100 QD?zi?55WmCSR;]blZW>Z1
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 0
+R11
+R12
+Pwatering_system_package
+R1
+R2
+!i122 6
+Z24 w1688740981
+R3
+Z25 8C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd
+Z26 FC:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd
+l0
+L7 1
+VJ[PR?FhGme<SV^oQ51Jzz3
+!s100 l>3G5F5`a3n`69cD4AUzK2
+R6
+32
+b1
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd|
+Z28 !s107 C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-package.vhd|
+!i113 0
+R11
+R12
+Bbody
+DPx4 work 23 watering_system_package 0 22 J[PR?FhGme<SV^oQ51Jzz3
+R1
+R2
+!i122 6
+l0
+L14 1
+V7dD[Y?dDk5:cV7OzAozFV0
+!s100 GlWZLz^S26`0M:Tc=o`BE1
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 0
+R11
+R12
+Ewatering_system_tb
+R15
+R1
+R2
+!i122 7
+R3
+R16
+R17
+l0
+L6 1
+VV4F^I7]c7b3N?ViF[`?ln2
+!s100 E0GPS@OfIPU7^cPF1_4VP0
+R6
+32
+R7
+!i10b 1
+R8
+R18
+Z29 !s107 C:/Users/sss/Desktop/[SutechFPGA1402][400213015]/sutech-fpga-1402-main/watering-system-TB.vhd|
+!i113 0
+R11
+R12
+Atb_architecture
+R1
+R2
+R14
+!i122 7
+l42
+Z30 L9 243
+Z31 VVG9fNF5SjZ?Db?I5GjEia1
+Z32 !s100 46^0ZQPo3Ho=VS@GC9@=]3
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R29
+!i113 0
+R11
+R12
